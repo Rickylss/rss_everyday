@@ -31,6 +31,10 @@
     {
       "title": "Rickylss Blog",
       "url": "https://rickylss.site/atom.xml"
+    },
+    {
+      "title": "码农周刊",
+      "url": "https://rsshub.app/manong-weekly"
     }
   ]
 }
