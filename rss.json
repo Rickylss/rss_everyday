@@ -1,48 +1,36 @@
 {
   "rss_info": [
     {
-      "title": "少数派",
-      "url": "https://sspai.com/feed"
-    },
-    {
       "title": "阮一封的网络日志",
       "url": "http://feeds.feedburner.com/ruanyifeng"
     },
     {
-      "title": "酷壳 coolshell",
-      "url": "https://coolshell.cn/feed"
+      "title": "图灵奖获得者",
+      "url": "https://rsshub.app/acm/amturingaward"
     },
     {
-      "title": "依云's Blog",
-      "url": "https://blog.lilydjwg.me/feed"
+      "title": "longtao Blog",
+      "url": "https://longtao.fun/atom.xml"
     },
     {
-      "title": "Winnie 散漫游",
-      "url": "https://winnielife.com/feed/"
+      "title": "hackernews",
+      "url": "https://news.ycombinator.com/rss"
     },
     {
-      "title": "Airing 的小屋",
-      "url": "https://me.ursb.me/feed"
+      "title": "阿里云系统组",
+      "url": "https://rsshub.app/aliyun-kernel/index"
     },
     {
-      "title": "少数派 matrix",
-      "url": "https://rsshub.app/sspai/matrix"
+      "title": "美团技术团队",
+      "url": "https://rsshub.app/meituan/tech/home"
     },
     {
-      "title": "五月天微博",
-      "url": "https://rsshub.app/weibo/user/3365597502"
+      "title": "王垠 Blog",
+      "url": "https://rsshub.app/blogs/wangyin"
     },
     {
-      "title": "阿信微博",
-      "url": "https://rsshub.app/weibo/user/1265020392"
-    },
-    {
-      "title": "Product Hunt",
-      "url": "https://www.producthunt.com/feed"
-    },
-    {
-      "title": "I'm TualatriX",
-      "url": "https://imtx.me/feed/latest/"
+      "title": "Rickylss Blog",
+      "url": "https://rickylss.site/atom.xml"
     }
   ]
 }
