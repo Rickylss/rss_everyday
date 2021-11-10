@@ -35,6 +35,10 @@
     {
       "title": "码农周刊",
       "url": "https://rsshub.app/manong-weekly"
+    },
+    {
+      "title": "red hat blog",
+      "url": "https://www.redhat.com/en/rss/blog"
     }
   ]
 }
